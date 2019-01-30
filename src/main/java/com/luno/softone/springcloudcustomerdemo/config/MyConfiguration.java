@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
  * @ClassName: MyConfiguration
  * @Reason: TODO ADD REASON(可选)
  * @date: 2018年12月20日 11:33
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.8
  */
 @Configuration

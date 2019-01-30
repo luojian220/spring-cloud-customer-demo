@@ -16,7 +16,7 @@ import org.springframework.web.client.RestTemplate;
  * @ClassName: HelloworldController
  * @Reason: TODO ADD REASON(可选)
  * @date: 2018年12月19日 16:30
- * @company:宝尊电商
+ * @company:
  * @since JDK 1.8
  */
 @RestController
